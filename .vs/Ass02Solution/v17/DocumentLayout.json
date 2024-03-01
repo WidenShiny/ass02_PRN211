@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FULearning\\Spring2024\\PRN211\\Assign2\\Ass02_Remake\\Ass02Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6F5BFF-2BC4-4748-874D-08A3465A12C0}|SalesWinApp\\SalesWinApp.csproj|d:\\fulearning\\spring2024\\prn211\\assign2\\ass02_remake\\ass02solution\\saleswinapp\\admin\\member management\\frmreadmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB6F5BFF-2BC4-4748-874D-08A3465A12C0}|SalesWinApp\\SalesWinApp.csproj|solutionrelative:saleswinapp\\admin\\member management\\frmreadmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6F5BFF-2BC4-4748-874D-08A3465A12C0}|SalesWinApp\\SalesWinApp.csproj|D:\\FULearning\\Spring2024\\PRN211\\Assign2\\Ass02_Remake\\Ass02Solution\\saleswinapp\\admin\\member management\\frmreadmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6F5BFF-2BC4-4748-874D-08A3465A12C0}|SalesWinApp\\SalesWinApp.csproj|solutionrelative:saleswinapp\\admin\\member management\\frmreadmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6F5BFF-2BC4-4748-874D-08A3465A12C0}|SalesWinApp\\SalesWinApp.csproj|D:\\FULearning\\Spring2024\\PRN211\\Assign2\\Ass02_Remake\\Ass02Solution\\saleswinapp\\admin\\order management\\frmorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB6F5BFF-2BC4-4748-874D-08A3465A12C0}|SalesWinApp\\SalesWinApp.csproj|solutionrelative:saleswinapp\\admin\\order management\\frmorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6F5BFF-2BC4-4748-874D-08A3465A12C0}|SalesWinApp\\SalesWinApp.csproj|D:\\FULearning\\Spring2024\\PRN211\\Assign2\\Ass02_Remake\\Ass02Solution\\saleswinapp\\admin\\order management\\frmorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6F5BFF-2BC4-4748-874D-08A3465A12C0}|SalesWinApp\\SalesWinApp.csproj|solutionrelative:saleswinapp\\admin\\order management\\frmorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6F5BFF-2BC4-4748-874D-08A3465A12C0}|SalesWinApp\\SalesWinApp.csproj|D:\\FULearning\\Spring2024\\PRN211\\Assign2\\Ass02_Remake\\Ass02Solution\\saleswinapp\\admin\\product management\\frmaddproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB6F5BFF-2BC4-4748-874D-08A3465A12C0}|SalesWinApp\\SalesWinApp.csproj|solutionrelative:saleswinapp\\admin\\product management\\frmaddproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6F5BFF-2BC4-4748-874D-08A3465A12C0}|SalesWinApp\\SalesWinApp.csproj|D:\\FULearning\\Spring2024\\PRN211\\Assign2\\Ass02_Remake\\Ass02Solution\\saleswinapp\\admin\\product management\\frmupdateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB6F5BFF-2BC4-4748-874D-08A3465A12C0}|SalesWinApp\\SalesWinApp.csproj|solutionrelative:saleswinapp\\admin\\product management\\frmupdateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6F5BFF-2BC4-4748-874D-08A3465A12C0}|SalesWinApp\\SalesWinApp.csproj|D:\\FULearning\\Spring2024\\PRN211\\Assign2\\Ass02_Remake\\Ass02Solution\\saleswinapp\\admin\\product management\\frmproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6F5BFF-2BC4-4748-874D-08A3465A12C0}|SalesWinApp\\SalesWinApp.csproj|solutionrelative:saleswinapp\\admin\\product management\\frmproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6F5BFF-2BC4-4748-874D-08A3465A12C0}|SalesWinApp\\SalesWinApp.csproj|D:\\FULearning\\Spring2024\\PRN211\\Assign2\\Ass02_Remake\\Ass02Solution\\saleswinapp\\admin\\product management\\frmproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB6F5BFF-2BC4-4748-874D-08A3465A12C0}|SalesWinApp\\SalesWinApp.csproj|solutionrelative:saleswinapp\\admin\\product management\\frmproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6F5BFF-2BC4-4748-874D-08A3465A12C0}|SalesWinApp\\SalesWinApp.csproj|D:\\FULearning\\Spring2024\\PRN211\\Assign2\\Ass02_Remake\\Ass02Solution\\saleswinapp\\admin\\member management\\frmupdatemember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6F5BFF-2BC4-4748-874D-08A3465A12C0}|SalesWinApp\\SalesWinApp.csproj|solutionrelative:saleswinapp\\admin\\member management\\frmupdatemember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6F5BFF-2BC4-4748-874D-08A3465A12C0}|SalesWinApp\\SalesWinApp.csproj|D:\\FULearning\\Spring2024\\PRN211\\Assign2\\Ass02_Remake\\Ass02Solution\\saleswinapp\\admin\\member management\\frmupdatemember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB6F5BFF-2BC4-4748-874D-08A3465A12C0}|SalesWinApp\\SalesWinApp.csproj|solutionrelative:saleswinapp\\admin\\member management\\frmupdatemember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160A7C8C-1CEB-4CEF-9458-346EDB0C8B0A}|DataAccess\\DataAccess.csproj|D:\\FULearning\\Spring2024\\PRN211\\Assign2\\Ass02_Remake\\Ass02Solution\\dataaccess\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160A7C8C-1CEB-4CEF-9458-346EDB0C8B0A}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmReadMember.cs",
+              "DocumentMoniker": "D:\\FULearning\\Spring2024\\PRN211\\Assign2\\Ass02_Remake\\Ass02Solution\\SalesWinApp\\Admin\\Member Management\\frmReadMember.cs",
+              "RelativeDocumentMoniker": "SalesWinApp\\Admin\\Member Management\\frmReadMember.cs",
+              "ToolTip": "D:\\FULearning\\Spring2024\\PRN211\\Assign2\\Ass02_Remake\\Ass02Solution\\SalesWinApp\\Admin\\Member Management\\frmReadMember.cs",
+              "RelativeToolTip": "SalesWinApp\\Admin\\Member Management\\frmReadMember.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAtwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T17:15:19.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmProducts.cs",
+              "DocumentMoniker": "D:\\FULearning\\Spring2024\\PRN211\\Assign2\\Ass02_Remake\\Ass02Solution\\SalesWinApp\\Admin\\Product Management\\frmProducts.cs",
+              "RelativeDocumentMoniker": "SalesWinApp\\Admin\\Product Management\\frmProducts.cs",
+              "ToolTip": "D:\\FULearning\\Spring2024\\PRN211\\Assign2\\Ass02_Remake\\Ass02Solution\\SalesWinApp\\Admin\\Product Management\\frmProducts.cs",
+              "RelativeToolTip": "SalesWinApp\\Admin\\Product Management\\frmProducts.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAowFcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T16:33:18.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmProducts.cs [Design]",
+              "DocumentMoniker": "D:\\FULearning\\Spring2024\\PRN211\\Assign2\\Ass02_Remake\\Ass02Solution\\SalesWinApp\\Admin\\Product Management\\frmProducts.cs",
+              "RelativeDocumentMoniker": "SalesWinApp\\Admin\\Product Management\\frmProducts.cs",
+              "ToolTip": "D:\\FULearning\\Spring2024\\PRN211\\Assign2\\Ass02_Remake\\Ass02Solution\\SalesWinApp\\Admin\\Product Management\\frmProducts.cs [Design]",
+              "RelativeToolTip": "SalesWinApp\\Admin\\Product Management\\frmProducts.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T16:32:50.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmUpdateProduct.cs [Design]",
+              "DocumentMoniker": "D:\\FULearning\\Spring2024\\PRN211\\Assign2\\Ass02_Remake\\Ass02Solution\\SalesWinApp\\Admin\\Product Management\\frmUpdateProduct.cs",
+              "RelativeDocumentMoniker": "SalesWinApp\\Admin\\Product Management\\frmUpdateProduct.cs",
+              "ToolTip": "D:\\FULearning\\Spring2024\\PRN211\\Assign2\\Ass02_Remake\\Ass02Solution\\SalesWinApp\\Admin\\Product Management\\frmUpdateProduct.cs [Design]",
+              "RelativeToolTip": "SalesWinApp\\Admin\\Product Management\\frmUpdateProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T16:32:45.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmAddProduct.cs [Design]",
+              "DocumentMoniker": "D:\\FULearning\\Spring2024\\PRN211\\Assign2\\Ass02_Remake\\Ass02Solution\\SalesWinApp\\Admin\\Product Management\\frmAddProduct.cs",
+              "RelativeDocumentMoniker": "SalesWinApp\\Admin\\Product Management\\frmAddProduct.cs",
+              "ToolTip": "D:\\FULearning\\Spring2024\\PRN211\\Assign2\\Ass02_Remake\\Ass02Solution\\SalesWinApp\\Admin\\Product Management\\frmAddProduct.cs [Design]",
+              "RelativeToolTip": "SalesWinApp\\Admin\\Product Management\\frmAddProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T16:32:29.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmOrders.cs",
+              "DocumentMoniker": "D:\\FULearning\\Spring2024\\PRN211\\Assign2\\Ass02_Remake\\Ass02Solution\\SalesWinApp\\Admin\\Order Management\\frmOrders.cs",
+              "RelativeDocumentMoniker": "SalesWinApp\\Admin\\Order Management\\frmOrders.cs",
+              "ToolTip": "D:\\FULearning\\Spring2024\\PRN211\\Assign2\\Ass02_Remake\\Ass02Solution\\SalesWinApp\\Admin\\Order Management\\frmOrders.cs",
+              "RelativeToolTip": "SalesWinApp\\Admin\\Order Management\\frmOrders.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAmwEkAAACoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T16:25:48.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmOrders.cs [Design]",
+              "DocumentMoniker": "D:\\FULearning\\Spring2024\\PRN211\\Assign2\\Ass02_Remake\\Ass02Solution\\SalesWinApp\\Admin\\Order Management\\frmOrders.cs",
+              "RelativeDocumentMoniker": "SalesWinApp\\Admin\\Order Management\\frmOrders.cs",
+              "ToolTip": "D:\\FULearning\\Spring2024\\PRN211\\Assign2\\Ass02_Remake\\Ass02Solution\\SalesWinApp\\Admin\\Order Management\\frmOrders.cs [Design]",
+              "RelativeToolTip": "SalesWinApp\\Admin\\Order Management\\frmOrders.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T16:25:44.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmReadMember.cs [Design]",
+              "DocumentMoniker": "D:\\FULearning\\Spring2024\\PRN211\\Assign2\\Ass02_Remake\\Ass02Solution\\SalesWinApp\\Admin\\Member Management\\frmReadMember.cs",
+              "RelativeDocumentMoniker": "SalesWinApp\\Admin\\Member Management\\frmReadMember.cs",
+              "ToolTip": "D:\\FULearning\\Spring2024\\PRN211\\Assign2\\Ass02_Remake\\Ass02Solution\\SalesWinApp\\Admin\\Member Management\\frmReadMember.cs [Design]",
+              "RelativeToolTip": "SalesWinApp\\Admin\\Member Management\\frmReadMember.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T16:24:23.979Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Member.cs",
+              "DocumentMoniker": "D:\\FULearning\\Spring2024\\PRN211\\Assign2\\Ass02_Remake\\Ass02Solution\\DataAccess\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Models\\Member.cs",
+              "ToolTip": "D:\\FULearning\\Spring2024\\PRN211\\Assign2\\Ass02_Remake\\Ass02Solution\\DataAccess\\Models\\Member.cs",
+              "RelativeToolTip": "DataAccess\\Models\\Member.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wBQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T16:19:03.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmUpdateMember.cs",
+              "DocumentMoniker": "D:\\FULearning\\Spring2024\\PRN211\\Assign2\\Ass02_Remake\\Ass02Solution\\SalesWinApp\\Admin\\Member Management\\frmUpdateMember.cs",
+              "RelativeDocumentMoniker": "SalesWinApp\\Admin\\Member Management\\frmUpdateMember.cs",
+              "ToolTip": "D:\\FULearning\\Spring2024\\PRN211\\Assign2\\Ass02_Remake\\Ass02Solution\\SalesWinApp\\Admin\\Member Management\\frmUpdateMember.cs",
+              "RelativeToolTip": "SalesWinApp\\Admin\\Member Management\\frmUpdateMember.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAIAwwD0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T16:16:31.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmUpdateMember.cs [Design]",
+              "DocumentMoniker": "D:\\FULearning\\Spring2024\\PRN211\\Assign2\\Ass02_Remake\\Ass02Solution\\SalesWinApp\\Admin\\Member Management\\frmUpdateMember.cs",
+              "RelativeDocumentMoniker": "SalesWinApp\\Admin\\Member Management\\frmUpdateMember.cs",
+              "ToolTip": "D:\\FULearning\\Spring2024\\PRN211\\Assign2\\Ass02_Remake\\Ass02Solution\\SalesWinApp\\Admin\\Member Management\\frmUpdateMember.cs [Design]",
+              "RelativeToolTip": "SalesWinApp\\Admin\\Member Management\\frmUpdateMember.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T16:10:58.788Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
